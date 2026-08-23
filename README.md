@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Muhammad Sharjeel 👋
+### Front-End Developer
 
-<!--
-**muhammadsharjeel039-dotcom/muhammadsharjeel039-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I craft clean, responsive, and user-centered web applications using modern front-end technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+---
+
+### 🌐 Connect & Contact
+- **LinkedIn:** [Muhammad Sharjeel](https://www.linkedin.com/in/muhammad-sharjeel-327705332)
+- **Email:** muhammadsharjeel039@gmail.com
