@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="233" viewBox="0 0 960 233" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="348" viewBox="0 0 960 348" role="img" aria-labelledby="title description">
   <title id="title">Frontend Skills and Tools</title>
-  <desc id="description">Skills: HTML, CSS, JavaScript, React.js, Next.js. Tools: VS Code, Git, GitHub, Claude Code, Postman.</desc>
+  <desc id="description">Skills: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, API Integration, AI. Tools and Workflow: VS Code, Git, GitHub, Claude Code, Postman, Codex, ESLint, Prettier.</desc>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
   <g transform="translate(0 0)">
-    <rect x=".5" y=".5" width="467" height="232" rx="16" fill="#181818" stroke="#363333"/>
+    <rect x=".5" y=".5" width="467" height="347" rx="16" fill="#181818" stroke="#363333"/>
     <rect x="21" y="24" width="45" height="45" rx="12" fill="#302416"/>
     <g transform="translate(32 35)" fill="none" stroke="#f28c26" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="2" width="20" height="14" rx="2"/><path d="M11 16v5m-5 0h10"/></g>
     <text x="79" y="46" font-size="25" font-weight="700" fill="#f5f5f5">Frontend Skills</text>
     <path d="M80 56h28" stroke="#f28c26" stroke-width="2" stroke-linecap="round"/>
-    <text x="79" y="81" font-size="14" fill="#bdb7b0">Languages and libraries for building responsive interfaces.</text>
+    <text x="79" y="81" font-size="14" fill="#bdb7b0">Responsive UI, API integration, and AI.</text>
     <g transform="translate(21 105)">
       <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
       <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
@@ -39,14 +39,32 @@
       <g transform="translate(23.5 19.5)"><circle cx="16" cy="16" r="14" fill="#111" stroke="#e6e6e6"/><path d="M10.5 22V10.5L24 25M21 10.5V18" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
       <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Next.js</text>
     </g>
+    <g transform="translate(21 220)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path fill="#38bdf8" d="M16 6c-4.2 0-6.8 2.1-7.8 6.2 1.6-2.1 3.4-2.8 5.4-2.1 1.2.4 2 1.3 2.9 2.3 1.5 1.6 3.3 3.5 7.3 3.5 4.2 0 6.8-2.1 7.8-6.2-1.6 2.1-3.4 2.8-5.4 2.1-1.2-.4-2-1.3-2.9-2.3C21.8 7.9 20 6 16 6zM8.2 15.9c-4.2 0-6.8 2.1-7.8 6.2 1.6-2.1 3.4-2.8 5.4-2.1 1.2.4 2 1.3 2.9 2.3 1.5 1.6 3.3 3.5 7.3 3.5 4.2 0 6.8-2.1 7.8-6.2-1.6 2.1-3.4 2.8-5.4 2.1-1.2-.4-2-1.3-2.9-2.3-1.5-1.6-3.3-3.5-7.3-3.5z"/></g>
+      <text x="39.5" y="76" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Tailwind<tspan x="39.5" dy="16">CSS</tspan></text>
+    </g>
+    <g transform="translate(108 220)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><g fill="none" stroke="#63d9ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 9-6 7 6 7m14-14 6 7-6 7m-5-13-4 12"/></g></g>
+      <text x="39.5" y="76" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">API<tspan x="39.5" dy="16">Integration</tspan></text>
+    </g>
+    <g transform="translate(195 220)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path d="M16 2c1.7 8 4 10.3 12 12-8 1.7-10.3 4-12 12-1.7-8-4-10.3-12-12 8-1.7 10.3-4 12-12Z" fill="#c5a1ff"/><path d="M27 20v8m-4-4h8" stroke="#e2ccff" stroke-width="2" stroke-linecap="round"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">AI</text>
+    </g>
   </g>
   <g transform="translate(492 0)">
-    <rect x=".5" y=".5" width="467" height="232" rx="16" fill="#181818" stroke="#363333"/>
+    <rect x=".5" y=".5" width="467" height="347" rx="16" fill="#181818" stroke="#363333"/>
     <rect x="21" y="24" width="45" height="45" rx="12" fill="#302416"/>
     <g transform="translate(32 35)" fill="none" stroke="#f28c26" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="6" width="20" height="15" rx="2"/><path d="M7 6V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3M7 6v15m8-15v15"/></g>
     <text x="79" y="46" font-size="25" font-weight="700" fill="#f5f5f5">Tools &amp; Workflow</text>
     <path d="M80 56h28" stroke="#f28c26" stroke-width="2" stroke-linecap="round"/>
-    <text x="79" y="81" font-size="14" fill="#bdb7b0">Tools for coding, version control, and API testing.</text>
+    <text x="79" y="81" font-size="14" fill="#bdb7b0">Coding, version control, and API testing.</text>
     <g transform="translate(21 105)">
       <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
       <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
@@ -76,6 +94,24 @@
       <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
       <g transform="translate(23.5 19.5)"><circle cx="16" cy="16" r="14" fill="#ff6c37"/><path d="m8.5 23.5 3.4-1 8.8-8.8-2.4-2.4-8.8 8.8zm10.5-13.4 2-2a1.9 1.9 0 0 1 2.7 2.7l-2 2z" fill="#fff"/><path d="m12 19.5 5.5-5.5" stroke="#ff6c37" stroke-width="1"/></g>
       <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Postman</text>
+    </g>
+    <g transform="translate(21 220)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><rect x="2" y="2" width="28" height="28" rx="8" fill="#a19aff"/><path d="m8 11 5 5-5 5m8 0h8" fill="none" stroke="#211b37" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Codex</text>
+    </g>
+    <g transform="translate(108 220)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path d="m16 1 13 7.5v15L16 31 3 23.5v-15Z" fill="#8171ff"/><path d="m16 8 7 4v8l-7 4-7-4v-8Z" fill="#292342"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">ESLint</text>
+    </g>
+    <g transform="translate(195 220)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><g fill="none" stroke-width="2.6" stroke-linecap="round"><path d="M3 6h9m4 0h8M3 18h14m5 0h7" stroke="#56b3b4"/><path d="M3 10h18m4 0h4M3 22h8m4 0h9" stroke="#ea5e5e"/><path d="M3 14h6m4 0h16M3 26h17" stroke="#f7ba3e"/></g></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Prettier</text>
     </g>
   </g>
   </g>
