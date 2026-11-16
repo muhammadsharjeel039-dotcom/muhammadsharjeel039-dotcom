@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="112" viewBox="0 0 800 112" role="img" aria-labelledby="title desc">
+  <title id="title">Weather Forecast App</title>
+  <desc id="desc">Location search, forecast data and responsive views.</desc>
+  <defs>
+    <linearGradient id="surface">
+      <stop stop-color="#14253b"/>
+      <stop offset="1" stop-color="#0a1323"/>
+    </linearGradient>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#7dd3fc" opacity=".27"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="799" height="111" rx="15" fill="url(#surface)" stroke="#36516b"/>
+  <path d="M681 1h104q14 0 14 14v82q0 14-14 14H681Z" fill="url(#dots)"/>
+  <rect x="21" y="22" width="68" height="68" rx="14" fill="#7dd3fc" fill-opacity=".10" stroke="#7dd3fc" stroke-opacity=".28"/>
+  <g transform="translate(31 32)" fill="none" stroke="#7dd3fc" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 30h21a6 6 0 0 0 0-12h-1a9 9 0 0 0-17-3 8 8 0 0 0-3 15Z"/><path d="M22 9V4m-7 6-3-4m18 5 4-4M17 36l-2 4m10-4-2 4m10-4-2 4"/>
+  </g>
+  <text x="111" y="33" fill="#7dd3fc" font-family="Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.35">API-DRIVEN WEB APP</text>
+  <text x="110" y="62" fill="#f2f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Weather Forecast App</text>
+  <text x="111" y="85" fill="#c8d7e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Location search, forecast data and responsive views.</text>
+  <path d="M749 62l13-13m-11 0h11v11" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
