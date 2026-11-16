@@ -1,59 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="229" viewBox="0 0 960 229" role="img" aria-labelledby="title description">
-  <title id="title">Skills &amp; Tools</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="233" viewBox="0 0 960 233" role="img" aria-labelledby="title description">
+  <title id="title">Frontend Skills and Tools</title>
   <desc id="description">Skills: HTML, CSS, JavaScript, React.js, Next.js. Tools: VS Code, Git, GitHub, Claude Code, Postman.</desc>
-  <defs>
-    <radialGradient id="wash" cx="94%" cy="6%" r="91%">
-      <stop stop-color="#3A2819"/>
-      <stop offset="1" stop-color="#121212"/>
-    </radialGradient>
-    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse">
-      <path d="M23 0H0v23" fill="none" stroke="#F28C26" stroke-opacity=".13"/>
-    </pattern>
-    <clipPath id="frame">
-      <rect x="1" y="1" width="958" height="227" rx="19"/>
-    </clipPath>
-  </defs>
-  <rect x=".5" y=".5" width="959" height="228" rx="19.5" fill="url(#wash)" stroke="#404040"/>
-  <g clip-path="url(#frame)">
-    <path d="M741 0H960V229H670Z" fill="url(#grid)"/>
-    <path d="M741 0 670 229" fill="none" stroke="#F28C26" stroke-opacity=".24"/>
-  </g>
-  <path d="M49 48h29" stroke="#F28C26" stroke-width="3" stroke-linecap="round"/>
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="94" y="59" fill="#F5F5F5" font-size="33" font-weight="700">Skills &amp; Tools</text>
-    <g transform="translate(0 84)">
-      <text x="49" y="33" fill="#F28C26" font-size="28" font-weight="700">Skills</text>
-      <g fill="#22201E" stroke="#5F4937">
-        <rect x="200" y=".5" width="124" height="49" rx="9"/>
-        <rect x="336" y=".5" width="88" height="49" rx="9"/>
-        <rect x="436" y=".5" width="143" height="49" rx="9"/>
-        <rect x="591" y=".5" width="178" height="49" rx="9"/>
-        <rect x="781" y=".5" width="133" height="49" rx="9"/>
-      </g>
-      <g fill="#F5F5F5" text-anchor="middle" font-size="25" font-weight="600">
-        <text x="262" y="33">HTML</text>
-        <text x="380" y="33">CSS</text>
-        <text x="507.5" y="33">JavaScript</text>
-        <text x="680" y="33">React.js</text>
-        <text x="847.5" y="33">Next.js</text>
-      </g>
+  <g transform="translate(0 0)">
+    <rect x=".5" y=".5" width="467" height="232" rx="16" fill="#181818" stroke="#363333"/>
+    <rect x="21" y="24" width="45" height="45" rx="12" fill="#302416"/>
+    <g transform="translate(32 35)" fill="none" stroke="#f28c26" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="2" width="20" height="14" rx="2"/><path d="M11 16v5m-5 0h10"/></g>
+    <text x="79" y="46" font-size="25" font-weight="700" fill="#f5f5f5">Frontend Skills</text>
+    <path d="M80 56h28" stroke="#f28c26" stroke-width="2" stroke-linecap="round"/>
+    <text x="79" y="81" font-size="14" fill="#bdb7b0">Languages and libraries for building responsive interfaces.</text>
+    <g transform="translate(21 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path fill="#f16529" d="M3 2h26l-2.4 26L16 31 5.4 28z"/><path fill="#fff" d="M9 8h14l-.3 3H12l.3 3h10l-.8 10-5.5 1.6-5.5-1.6-.4-4.5h3l.2 2.2 2.7.7 2.7-.7.4-4.7h-9z"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">HTML</text>
     </g>
-    <g transform="translate(0 149)">
-      <text x="49" y="33" fill="#F28C26" font-size="28" font-weight="700">Tools</text>
-      <g fill="#22201E" stroke="#5F4937">
-        <rect x="200" y=".5" width="124" height="49" rx="9"/>
-        <rect x="336" y=".5" width="88" height="49" rx="9"/>
-        <rect x="436" y=".5" width="143" height="49" rx="9"/>
-        <rect x="591" y=".5" width="178" height="49" rx="9"/>
-        <rect x="781" y=".5" width="133" height="49" rx="9"/>
-      </g>
-      <g fill="#F5F5F5" text-anchor="middle" font-size="25" font-weight="600">
-        <text x="262" y="33">VS Code</text>
-        <text x="380" y="33">Git</text>
-        <text x="507.5" y="33">GitHub</text>
-        <text x="680" y="33">Claude Code</text>
-        <text x="847.5" y="33">Postman</text>
-      </g>
+    <g transform="translate(108 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path fill="#2879d3" d="M3 2h26l-2.4 26L16 31 5.4 28z"/><path fill="#fff" d="M9 8h14l-.3 3-8.4 3h8.1l-.9 10-5.5 1.6-5.5-1.6-.4-4.5h3l.2 2.2 2.7.7 2.7-.7.4-4.7H10l-.3-3 8.2-3H9.3z"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">CSS</text>
     </g>
+    <g transform="translate(195 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><rect x="2" y="2" width="28" height="28" rx="3" fill="#f7df1e"/><path fill="#161616" d="M12 15h3v8c0 3-1.7 4.4-4 4.4-1.8 0-3.1-.8-3.9-2.3l2.4-1.4c.4.7.8 1.1 1.5 1.1.7 0 1-.4 1-1.4zm7.3 8.3c.7 1 1.4 1.5 2.6 1.5 1 0 1.6-.4 1.6-1 0-.8-.7-1.1-2.2-1.8-2-.9-3.2-1.8-3.2-3.8 0-2 1.6-3.4 3.9-3.4 1.7 0 2.8.5 3.7 1.9l-2.2 1.5c-.4-.7-.8-1-1.5-1-.7 0-1.1.4-1.1.9 0 .7.4 1 1.8 1.6 2.4 1 3.7 1.9 3.7 4 0 2.3-1.8 3.7-4.4 3.7-2.4 0-4.1-1.2-4.9-2.6z"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">JavaScript</text>
+    </g>
+    <g transform="translate(282 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><g fill="none" stroke="#61dafb" stroke-width="1.55"><ellipse cx="16" cy="16" rx="14" ry="5.6"/><ellipse cx="16" cy="16" rx="14" ry="5.6" transform="rotate(60 16 16)"/><ellipse cx="16" cy="16" rx="14" ry="5.6" transform="rotate(120 16 16)"/></g><circle cx="16" cy="16" r="2.7" fill="#61dafb"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">React.js</text>
+    </g>
+    <g transform="translate(369 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><circle cx="16" cy="16" r="14" fill="#111" stroke="#e6e6e6"/><path d="M10.5 22V10.5L24 25M21 10.5V18" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Next.js</text>
+    </g>
+  </g>
+  <g transform="translate(492 0)">
+    <rect x=".5" y=".5" width="467" height="232" rx="16" fill="#181818" stroke="#363333"/>
+    <rect x="21" y="24" width="45" height="45" rx="12" fill="#302416"/>
+    <g transform="translate(32 35)" fill="none" stroke="#f28c26" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="6" width="20" height="15" rx="2"/><path d="M7 6V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3M7 6v15m8-15v15"/></g>
+    <text x="79" y="46" font-size="25" font-weight="700" fill="#f5f5f5">Tools &amp; Workflow</text>
+    <path d="M80 56h28" stroke="#f28c26" stroke-width="2" stroke-linecap="round"/>
+    <text x="79" y="81" font-size="14" fill="#bdb7b0">Tools for coding, version control, and API testing.</text>
+    <g transform="translate(21 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path fill="#36a9ef" d="m25 2 5 2.6v22.8L25 30 2 12.4l3-3.2 19 12.5V10.3L5 22.8l-3-3.2z"/><path fill="#087cc4" d="M25 2 8.3 14.6l4.1 3L25 10.1z"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">VS Code</text>
+    </g>
+    <g transform="translate(108 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><rect x="5.5" y="5.5" width="21" height="21" rx="2.6" transform="rotate(45 16 16)" fill="#f05032"/><path d="m11 8 10 10M15 12v11" fill="none" stroke="#221712" stroke-width="1.8"/><g fill="#221712"><circle cx="15" cy="12" r="2.2"/><circle cx="21" cy="18" r="2.2"/><circle cx="15" cy="23" r="2.2"/></g></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Git</text>
+    </g>
+    <g transform="translate(195 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path fill="#f3f3f3" transform="translate(1 1) scale(1.25)" d="M12 .75a11.25 11.25 0 0 0-3.56 21.92c.56.1.77-.24.77-.54l-.02-2.1c-3.13.69-3.79-1.33-3.79-1.33-.51-1.3-1.25-1.65-1.25-1.65-1.02-.7.08-.69.08-.69 1.13.08 1.73 1.16 1.73 1.16 1 1.73 2.65 1.23 3.3.94.1-.73.39-1.23.71-1.52-2.5-.28-5.13-1.25-5.13-5.56 0-1.23.44-2.23 1.16-3.02-.12-.29-.5-1.43.11-2.98 0 0 .95-.3 3.09 1.15a10.74 10.74 0 0 1 5.62 0c2.14-1.45 3.08-1.15 3.08-1.15.62 1.55.23 2.69.12 2.98.72.79 1.16 1.79 1.16 3.02 0 4.32-2.63 5.27-5.14 5.55.4.35.76 1.03.76 2.08l-.01 3.12c0 .3.2.65.77.54A11.25 11.25 0 0 0 12 .75Z"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">GitHub</text>
+    </g>
+    <g transform="translate(282 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><path d="M16 3v26M3 16h26M6.8 6.8l18.4 18.4m0-18.4L6.8 25.2M10.7 4l10.6 24M4 10.7l24 10.6m0-10.6L4 21.3M21.3 4l-10.6 24" stroke="#e28e72" stroke-width="2.15" stroke-linecap="round"/></g>
+      <text x="39.5" y="76" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Claude<tspan x="39.5" dy="16">Code</tspan></text>
+    </g>
+    <g transform="translate(369 105)">
+      <rect x=".5" y=".5" width="78" height="105" rx="11" fill="#202020" stroke="#393532"/>
+      <rect x="17" y="13" width="45" height="45" rx="11" fill="#2b231b"/>
+      <g transform="translate(23.5 19.5)"><circle cx="16" cy="16" r="14" fill="#ff6c37"/><path d="m8.5 23.5 3.4-1 8.8-8.8-2.4-2.4-8.8 8.8zm10.5-13.4 2-2a1.9 1.9 0 0 1 2.7 2.7l-2 2z" fill="#fff"/><path d="m12 19.5 5.5-5.5" stroke="#ff6c37" stroke-width="1"/></g>
+      <text x="39.5" y="84" fill="#f5f5f5" font-size="14" font-weight="650" text-anchor="middle">Postman</text>
+    </g>
+  </g>
   </g>
 </svg>
