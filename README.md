@@ -1,6 +1,9 @@
 ![Muhammad Sharjeel Abid — Frontend Developer](./assets/portfolio-hero.svg)
 
-![Skills and Tools — Skills: HTML, CSS, JavaScript, React.js, Next.js. Tools: VS Code, Git, GitHub, Claude Code, Postman.](./assets/portfolio-skills-tools.svg)
+<picture>
+  <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/muhammadsharjeel039-dotcom/muhammadsharjeel039-dotcom/main/assets/portfolio-skills-tools-mobile.svg">
+  <img src="./assets/portfolio-skills-tools.svg" alt="Frontend Skills: HTML, CSS, JavaScript, React.js, Next.js. Tools and Workflow: VS Code, Git, GitHub, Claude Code, Postman.">
+</picture>
 
 I’m a frontend developer building responsive dashboards, API-driven web apps, and e-commerce storefronts. I’m pursuing a **BS in Information Technology** at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
 
