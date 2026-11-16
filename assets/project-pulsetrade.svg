@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="112" viewBox="0 0 800 112" role="img" aria-labelledby="title desc">
+  <title id="title">PulseTrade</title>
+  <desc id="desc">Watchlists, simulated orders and portfolio tracking.</desc>
+  <defs>
+    <linearGradient id="surface">
+      <stop stop-color="#14253b"/>
+      <stop offset="1" stop-color="#0a1323"/>
+    </linearGradient>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#5eead4" opacity=".27"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="799" height="111" rx="15" fill="url(#surface)" stroke="#36516b"/>
+  <path d="M681 1h104q14 0 14 14v82q0 14-14 14H681Z" fill="url(#dots)"/>
+  <rect x="21" y="22" width="68" height="68" rx="14" fill="#5eead4" fill-opacity=".10" stroke="#5eead4" stroke-opacity=".28"/>
+  <g transform="translate(31 32)" fill="none" stroke="#5eead4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 31V6m0 25h32M13 24l9-8 6 4 12-12m-7 0h7v7"/>
+  </g>
+  <text x="111" y="33" fill="#5eead4" font-family="Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.35">SIMULATOR DASHBOARD</text>
+  <text x="110" y="62" fill="#f2f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">PulseTrade</text>
+  <text x="111" y="85" fill="#c8d7e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Watchlists, simulated orders and portfolio tracking.</text>
+  
+</svg>
