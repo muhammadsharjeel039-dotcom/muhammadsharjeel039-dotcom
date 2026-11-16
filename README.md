@@ -1,14 +1,26 @@
 ![Muhammad Sharjeel Abid — Frontend Developer. React, JavaScript and Responsive UI.](./assets/profile-header.svg)
 
-I build responsive web interfaces for dashboards, API-driven apps, and e-commerce. I’m pursuing a BS in Information Technology at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
+I build responsive dashboards, API-driven web apps, and e-commerce storefronts. I’m pursuing a BS in Information Technology at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
 
-[**LinkedIn**](https://www.linkedin.com/in/muhammad-sharjeel-327705332/) · [**Public repositories**](https://github.com/muhammadsharjeel039-dotcom?tab=repositories) · [**Email**](mailto:muhammadsharjeel039@gmail.com)
+[**Connect on LinkedIn**](https://www.linkedin.com/in/muhammad-sharjeel-327705332/) · [**Browse repositories**](https://github.com/muhammadsharjeel039-dotcom?tab=repositories) · [**Email me**](mailto:muhammadsharjeel039@gmail.com)
+
+## Experience
+
+### Apex Smart Works · Internship
+
+During my internship at **Apex Smart Works**, I contributed to the frontend of its responsive company website. The site has dedicated pages for web development, digital marketing, and SEO services, with navigation to company and contact information.
+
+[![Apex Smart Works — View the live internship project](./assets/project-apex.svg)](https://apexsmartworks.com/)
 
 ## Selected projects
 
-![PulseTrade — stock-market simulator with watchlists, simulated orders and portfolio tracking](./assets/project-pulsetrade.svg)
+[![Geniemerce — View the live WooCommerce storefront](./assets/project-geniemerce.svg)](https://geniemerce.com/)
 
-PulseTrade brings Pakistan Stock Exchange workflows into a simulator with a searchable watchlist, price alerts, market and limit orders, and a portfolio dashboard. The project includes web and Android interfaces.
+Worked on a WordPress and WooCommerce storefront for costume jewelry and handmade crochet clothing, with a catalog organized around product categories.
+
+![PulseTrade — Stock-market simulator with watchlists, simulated orders and portfolio tracking](./assets/project-pulsetrade.svg)
+
+Built around simulated Pakistan Stock Exchange workflows, with a searchable watchlist, price alerts, market and limit orders, and a portfolio dashboard across web and Android interfaces.
 
 [![Weather Forecast App — Open repository](./assets/project-weather.svg)](https://github.com/muhammadsharjeel039-dotcom/Weather-Forecast-App)
 
@@ -18,11 +30,7 @@ Search by location and browse forecast data in a responsive interface backed by 
 
 Select a currency pair and calculate conversions using exchange-rate data from an API.
 
-## Website work
-
-- **Dispose It** — Responsive WordPress storefront for compostable tableware and party supplies, with product browsing, checkout, and a bulk-order inquiry flow.
-- **[Apex Smart Works](https://apexsmartworks.com/)** — Contributed to a responsive business site with dedicated pages for web development, digital marketing, and SEO services.
-- **[Geniemerce](https://geniemerce.com/)** — Worked on the storefront and product catalog for a jewelry and crochet shop.
+**Dispose It** — Responsive WordPress storefront with product browsing, checkout, and a bulk-order inquiry flow for compostable tableware and party supplies.
 
 ## Tech stack
 

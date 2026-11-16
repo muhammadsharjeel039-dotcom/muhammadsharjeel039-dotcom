@@ -1,23 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="112" viewBox="0 0 800 112" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="120" viewBox="0 0 960 120" role="img" aria-labelledby="title desc">
   <title id="title">Currency Converter</title>
-  <desc id="desc">Currency selection and conversions using exchange-rate data.</desc>
+  <desc id="desc">Currency selection and API-backed conversions</desc>
   <defs>
     <linearGradient id="surface">
-      <stop stop-color="#14253b"/>
-      <stop offset="1" stop-color="#0a1323"/>
+      <stop stop-color="#252525"/>
+      <stop offset=".75" stop-color="#1E1E1E"/>
     </linearGradient>
-    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.1" fill="#c4b5fd" opacity=".27"/>
+    <pattern id="lines" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(44)">
+      <path d="M0 0v14" stroke="#F28C26" stroke-opacity=".14" stroke-width="2"/>
     </pattern>
   </defs>
-  <rect x=".5" y=".5" width="799" height="111" rx="15" fill="url(#surface)" stroke="#36516b"/>
-  <path d="M681 1h104q14 0 14 14v82q0 14-14 14H681Z" fill="url(#dots)"/>
-  <rect x="21" y="22" width="68" height="68" rx="14" fill="#c4b5fd" fill-opacity=".10" stroke="#c4b5fd" stroke-opacity=".28"/>
-  <g transform="translate(31 32)" fill="none" stroke="#c4b5fd" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M7 15h30l-7-7m7 7-7 7M39 32H9l7-7m-7 7 7 7"/>
-  </g>
-  <text x="111" y="33" fill="#c4b5fd" font-family="Consolas, monospace" font-size="13" font-weight="700" letter-spacing="1.35">JAVASCRIPT WEB APP</text>
-  <text x="110" y="62" fill="#f2f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Currency Converter</text>
-  <text x="111" y="85" fill="#c8d7e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Currency selection and conversions using exchange-rate data.</text>
-  <path d="M749 62l13-13m-11 0h11v11" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x=".5" y=".5" width="959" height="119" rx="16" fill="url(#surface)" stroke="#404040"/>
+  <path d="M2 17v86" stroke="#F28C26" stroke-width="3" stroke-linecap="round"/>
+  <rect x="23" y="22" width="76" height="76" rx="14" fill="#F28C26" fill-opacity=".09" stroke="#F28C26" stroke-opacity=".32"/>
+  <g transform="translate(38 37)" stroke="#F28C26" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M7 15h33l-8-8m8 8-8 8M40 33H7l8-8m-8 8 8 8"/></g>
+  <text x="124" y="35" fill="#F28C26" font-family="Consolas, monospace" font-size="15" font-weight="700" letter-spacing="1.55">JAVASCRIPT WEB APP</text>
+  <text x="122" y="68" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Currency Converter</text>
+  <text x="124" y="96" fill="#B0B0B0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Currency selection and API-backed conversions</text>
+  <path d="M853 1h91q15 0 15 15v88q0 15-15 15H792Z" fill="url(#lines)"/>
+  <rect x="883" y="40" width="41" height="41" rx="9" fill="#121212" stroke="#F28C26" stroke-opacity=".6"/><path d="m898 66 12-12m-10 0h10v10" fill="none" stroke="#F28C26" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
