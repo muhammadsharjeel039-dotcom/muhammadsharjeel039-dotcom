@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="229" viewBox="0 0 960 229" role="img" aria-labelledby="title description">
+  <title id="title">Skills &amp; Tools</title>
+  <desc id="description">Skills: HTML, CSS, JavaScript, React.js, Next.js. Tools: VS Code, Git, GitHub, Claude Code, Postman.</desc>
+  <defs>
+    <radialGradient id="wash" cx="94%" cy="6%" r="91%">
+      <stop stop-color="#3A2819"/>
+      <stop offset="1" stop-color="#121212"/>
+    </radialGradient>
+    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse">
+      <path d="M23 0H0v23" fill="none" stroke="#F28C26" stroke-opacity=".13"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="1" y="1" width="958" height="227" rx="19"/>
+    </clipPath>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="228" rx="19.5" fill="url(#wash)" stroke="#404040"/>
+  <g clip-path="url(#frame)">
+    <path d="M741 0H960V229H670Z" fill="url(#grid)"/>
+    <path d="M741 0 670 229" fill="none" stroke="#F28C26" stroke-opacity=".24"/>
+  </g>
+  <path d="M49 48h29" stroke="#F28C26" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="94" y="59" fill="#F5F5F5" font-size="33" font-weight="700">Skills &amp; Tools</text>
+    <g transform="translate(0 84)">
+      <text x="49" y="33" fill="#F28C26" font-size="28" font-weight="700">Skills</text>
+      <g fill="#22201E" stroke="#5F4937">
+        <rect x="200" y=".5" width="124" height="49" rx="9"/>
+        <rect x="336" y=".5" width="88" height="49" rx="9"/>
+        <rect x="436" y=".5" width="143" height="49" rx="9"/>
+        <rect x="591" y=".5" width="178" height="49" rx="9"/>
+        <rect x="781" y=".5" width="133" height="49" rx="9"/>
+      </g>
+      <g fill="#F5F5F5" text-anchor="middle" font-size="25" font-weight="600">
+        <text x="262" y="33">HTML</text>
+        <text x="380" y="33">CSS</text>
+        <text x="507.5" y="33">JavaScript</text>
+        <text x="680" y="33">React.js</text>
+        <text x="847.5" y="33">Next.js</text>
+      </g>
+    </g>
+    <g transform="translate(0 149)">
+      <text x="49" y="33" fill="#F28C26" font-size="28" font-weight="700">Tools</text>
+      <g fill="#22201E" stroke="#5F4937">
+        <rect x="200" y=".5" width="124" height="49" rx="9"/>
+        <rect x="336" y=".5" width="88" height="49" rx="9"/>
+        <rect x="436" y=".5" width="143" height="49" rx="9"/>
+        <rect x="591" y=".5" width="178" height="49" rx="9"/>
+        <rect x="781" y=".5" width="133" height="49" rx="9"/>
+      </g>
+      <g fill="#F5F5F5" text-anchor="middle" font-size="25" font-weight="600">
+        <text x="262" y="33">VS Code</text>
+        <text x="380" y="33">Git</text>
+        <text x="507.5" y="33">GitHub</text>
+        <text x="680" y="33">Claude Code</text>
+        <text x="847.5" y="33">Postman</text>
+      </g>
+    </g>
+  </g>
+</svg>
