@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="226" viewBox="0 0 960 226" role="img" aria-labelledby="title">
+  <title id="title">Apex Smart Works</title>
+  
+  <defs>
+    <radialGradient id="wash" cx="94%" cy="6%" r="91%"><stop stop-color="#382818"/><stop offset="1" stop-color="#121212"/></radialGradient>
+    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0v23" fill="none" stroke="#F28C26" stroke-opacity=".13"/></pattern>
+    <clipPath id="frame"><rect x="0" y="0" width="960" height="226" rx="20" fill="#121212" stroke="none"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="225" rx="19.5" fill="url(#wash)" stroke="#404040"/>
+  <g clip-path="url(#frame)">
+    <path d="M550 0H960V226H460Z" fill="url(#grid)"/>
+    <path d="M550 0 460 226" fill="none" stroke="#F28C26" stroke-opacity=".24"/>
+  </g>
+  <g clip-path="url(#frame)">
+  <rect x="587" y="47" width="254" height="136" rx="12" fill="#151515" stroke="#B36A2B"/>
+  <path d="M588 74h252" stroke="#404040"/>
+  <g fill="#F28C26"><circle cx="604" cy="60" r="2.5"/><circle cx="615" cy="60" r="2.5" opacity=".6"/><circle cx="626" cy="60" r="2.5" opacity=".35"/></g>
+  <path d="M608 147l24-42 24 42h-48m12-16h24" fill="none" stroke="#F28C26" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M681 106h126m-126 16h102m-102 16h85" stroke="#736252" stroke-width="4" stroke-linecap="round"/>
+  <rect x="681" y="150" width="55" height="13" rx="4" fill="#AE6125" stroke="none"/>
+</g>
+  <text x="39" y="52" fill="#F28C26" font-family="Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1.1">INTERNSHIP · COMPANY WEBSITE</text>
+  <text x="37" y="102" fill="#F5F5F5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="43" font-weight="750" letter-spacing="-1">Apex Smart Works</text>
+  <text x="40" y="140" fill="#B0B0B0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" letter-spacing="0">Frontend contribution to a responsive</text>
+  <text x="40" y="166" fill="#B0B0B0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" letter-spacing="0">digital services website.</text>
+  <text x="40" y="199" fill="#FFC181" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0">Visit website ↗</text>
+
+</svg>
