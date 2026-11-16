@@ -2,7 +2,7 @@
 
 I build responsive dashboards, API-driven web apps, and e-commerce storefronts. I’m pursuing a BS in Information Technology at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
 
-[**Connect on LinkedIn**](https://www.linkedin.com/in/muhammad-sharjeel-327705332/) · [**Browse repositories**](https://github.com/muhammadsharjeel039-dotcom?tab=repositories) · [**Email me**](mailto:muhammadsharjeel039@gmail.com)
+[**Experience**](#experience) · [**Work**](#selected-projects) · [**Tech stack**](#tech-stack) · [**Contact**](#get-in-touch)
 
 ## Experience
 
@@ -32,9 +32,21 @@ Select a currency pair and calculate conversions using exchange-rate data from a
 
 **Dispose It** — Responsive WordPress storefront with product browsing, checkout, and a bulk-order inquiry flow for compostable tableware and party supplies.
 
+## How I build
+
+- **Reusable components.** I split interfaces into small React components with clear responsibilities.
+- **Predictable data flow.** I keep API requests and shared state separate from presentation, with clear loading, empty, and error states.
+- **Responsive layouts.** I check that navigation, forms, and content stay usable across screen sizes.
+
 ## Tech stack
 
-**Frontend** · React, JavaScript, HTML, CSS, Vite  
-**Additional tools** · TypeScript, Next.js, Tailwind CSS  
-**E-commerce** · WordPress, Elementor, WooCommerce  
-**Workflow** · Git, GitHub, VS Code, Vercel
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | React · JavaScript · HTML · CSS · Vite |
+| **Frameworks and styling** | Next.js · TypeScript · Tailwind CSS |
+| **E-commerce** | WordPress · Elementor · WooCommerce |
+| **Development workflow** | Git · GitHub · VS Code · Vercel |
+
+## Get in touch
+
+Have a frontend role or a project in mind? Reach out on [**LinkedIn**](https://www.linkedin.com/in/muhammad-sharjeel-327705332/) or [**send me an email**](mailto:muhammadsharjeel039@gmail.com). You can also [browse my public repositories](https://github.com/muhammadsharjeel039-dotcom?tab=repositories).
