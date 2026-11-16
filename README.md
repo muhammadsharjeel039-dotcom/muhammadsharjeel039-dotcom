@@ -2,7 +2,7 @@
 
 I build responsive dashboards, API-driven web apps, and e-commerce storefronts. I’m pursuing a BS in Information Technology at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
 
-[**Experience**](#experience) · [**Work**](#selected-projects) · [**Tech stack**](#tech-stack) · [**Contact**](#get-in-touch)
+[**Browse public repositories**](https://github.com/muhammadsharjeel039-dotcom?tab=repositories) · [**Connect on LinkedIn**](https://www.linkedin.com/in/muhammad-sharjeel-327705332/)
 
 ## Experience
 
@@ -43,7 +43,7 @@ Select a currency pair and calculate conversions using exchange-rate data from a
 | Area | Tools |
 | :--- | :--- |
 | **Frontend** | React · JavaScript · HTML · CSS · Vite |
-| **Frameworks and styling** | Next.js · TypeScript · Tailwind CSS |
+| **Additional frontend tools** | Next.js · TypeScript · Tailwind CSS |
 | **E-commerce** | WordPress · Elementor · WooCommerce |
 | **Development workflow** | Git · GitHub · VS Code · Vercel |
 
