@@ -1,8 +1,8 @@
 ![Muhammad Sharjeel Abid — Frontend Developer](./assets/portfolio-hero.svg)
 
 <picture>
-  <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/muhammadsharjeel039-dotcom/muhammadsharjeel039-dotcom/b1395ec881e9bde978de083cbbaa7aa3c6c4bc0f/assets/portfolio-skills-tools-mobile.svg">
-  <img src="https://raw.githubusercontent.com/muhammadsharjeel039-dotcom/muhammadsharjeel039-dotcom/2804c8b1c0273808db83c2ae202d26afb9ad4349/assets/portfolio-skills-tools.svg" alt="Frontend Skills: HTML, CSS, JavaScript, React.js, Next.js. Tools and Workflow: VS Code, Git, GitHub, Claude Code, Postman.">
+  <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/muhammadsharjeel039-dotcom/muhammadsharjeel039-dotcom/3ab5a478f407558d66a132f2032261d5f227ba01/assets/portfolio-skills-tools-mobile.svg">
+  <img src="https://raw.githubusercontent.com/muhammadsharjeel039-dotcom/muhammadsharjeel039-dotcom/b81d4075cf359ffbb9df64b6639b7bfcfbceb282/assets/portfolio-skills-tools.svg" alt="Frontend Skills: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, API Integration, AI. Tools and Workflow: VS Code, Git, GitHub, Claude Code, Postman, Codex, ESLint, Prettier.">
 </picture>
 
 I’m a frontend developer building responsive dashboards, API-driven web apps, and e-commerce storefronts. I’m pursuing a **BS in Information Technology** at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
@@ -33,7 +33,7 @@ I’m a frontend developer building responsive dashboards, API-driven web apps, 
 
 ## How I build
 
-I also work with **Vite, TypeScript, Tailwind CSS, and Vercel** for web projects and **WordPress, Elementor, and WooCommerce** for storefronts.
+I also work with **Vite, TypeScript, and Vercel** for web projects and **WordPress, Elementor, and WooCommerce** for storefronts.
 
 I build interfaces from reusable components, keep data fetching separate from presentation, and check how loading states, forms, and navigation behave across screen sizes.
 
