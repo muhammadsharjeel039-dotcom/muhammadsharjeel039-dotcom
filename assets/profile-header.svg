@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="276" viewBox="0 0 960 276" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Sharjeel Abid, Frontend Developer</title>
   <desc id="desc">A navy banner with an illustrated code editor, highlighting React, JavaScript and responsive UI.</desc>
+  <style>
+    .cursor { animation: blink 1.4s step-end infinite; }
+    @keyframes blink { 50% { opacity: .16; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
   <defs>
     <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#101e36"/>
@@ -44,6 +49,7 @@
       <text x="555" y="173" fill="#82e8db">'Responsive UI'</text>
       <text x="534" y="200" fill="#d9e4f5">];</text>
     </g>
+    <rect class="cursor" x="560" y="186" width="8" height="15" rx="1" fill="#5eead4"/>
     <path d="M898 110h13m-6.5-6.5v13" stroke="#7dd3fc" stroke-opacity=".8" stroke-linecap="round"/>
   </g>
   <rect x=".5" y=".5" width="959" height="275" rx="17.5" fill="none" stroke="#416478" stroke-opacity=".6"/>
