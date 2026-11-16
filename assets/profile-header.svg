@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="276" viewBox="0 0 960 276" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Sharjeel Abid, Frontend Developer</title>
+  <desc id="desc">A navy banner with an illustrated code editor, highlighting React, JavaScript and responsive UI.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101e36"/>
+      <stop offset="1" stop-color="#070d19"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="76%" cy="22%" r="63%">
+      <stop stop-color="#126477" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#126477" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#a1bbd3" stroke-opacity=".13"/>
+    </pattern>
+    <linearGradient id="grid-fade">
+      <stop offset="34%" stop-color="#000"/>
+      <stop offset="100%" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="grid-mask"><rect width="960" height="276" fill="url(#grid-fade)"/></mask>
+    <clipPath id="frame"><rect width="960" height="276" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="960" height="276" fill="url(#background)"/>
+    <rect width="960" height="276" fill="url(#glow)"/>
+    <rect width="960" height="276" fill="url(#grid)" mask="url(#grid-mask)"/>
+    <path d="M50 65h36" stroke="#5eead4" stroke-width="3" stroke-linecap="round"/>
+    <text x="101" y="70" fill="#82e8db" font-family="Consolas, Liberation Mono, monospace" font-size="15" letter-spacing="2.4">FRONTEND DEVELOPER</text>
+    <text x="47" y="138" fill="#f4f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.7">Muhammad</text>
+    <text x="47" y="194" fill="#f4f7ff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.7">Sharjeel Abid</text>
+    <text x="50" y="235" fill="#b9cadf" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">React · JavaScript · Responsive UI</text>
+
+    <rect x="521" y="58" width="378" height="171" rx="14" fill="#050817" opacity=".55"/>
+    <rect x="511.5" y="46.5" width="377" height="170" rx="13.5" fill="#101b2f" stroke="#416478"/>
+    <path d="M512 82.5h376" stroke="#2a4659"/>
+    <circle cx="534" cy="65" r="3.4" fill="#7dd3fc"/>
+    <circle cx="548" cy="65" r="3.4" fill="#6787a4"/>
+    <circle cx="562" cy="65" r="3.4" fill="#49617e"/>
+    <text x="581" y="69.5" fill="#a8bfd6" font-family="Consolas, Liberation Mono, monospace" font-size="13">Profile.jsx</text>
+    <g font-family="Consolas, Liberation Mono, monospace" font-size="17" xml:space="preserve">
+      <text x="534" y="115" fill="#d9e4f5"><tspan fill="#a7c7ff">const</tspan> skills = [</text>
+      <text x="555" y="144" fill="#82e8db">'React', 'JavaScript',</text>
+      <text x="555" y="173" fill="#82e8db">'Responsive UI'</text>
+      <text x="534" y="200" fill="#d9e4f5">];</text>
+    </g>
+    <path d="M898 110h13m-6.5-6.5v13" stroke="#7dd3fc" stroke-opacity=".8" stroke-linecap="round"/>
+  </g>
+  <rect x=".5" y=".5" width="959" height="275" rx="17.5" fill="none" stroke="#416478" stroke-opacity=".6"/>
+</svg>
