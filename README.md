@@ -7,7 +7,7 @@
 
 I’m a frontend developer building responsive dashboards, API-driven web apps, and e-commerce storefronts. I’m pursuing a **BS in Information Technology** at Virtual University of Pakistan and open to **Frontend Developer** and **Frontend Engineer** roles.
 
-[![LinkedIn](./assets/portfolio-linkedin.svg)](https://www.linkedin.com/in/muhammad-sharjeel-327705332/) &nbsp; [![Repositories](./assets/portfolio-repositories.svg)](https://github.com/muhammadsharjeel039-dotcom?tab=repositories) &nbsp; [![Email](./assets/portfolio-email.svg)](mailto:muhammadsharjeel039@gmail.com)
+[![Portfolio](./assets/portfolio-website.svg)](https://github.com/muhammadsharjeel039-dotcom#featured-work) &nbsp; [![LinkedIn](./assets/portfolio-linkedin.svg)](https://www.linkedin.com/in/muhammad-sharjeel-abid-327705332/) &nbsp; [![Repositories](./assets/portfolio-repositories.svg)](https://github.com/muhammadsharjeel039-dotcom?tab=repositories) &nbsp; [![Email](./assets/portfolio-email.svg)](mailto:muhammadsharjeel039@gmail.com)
 
 ## Featured work
 
@@ -39,4 +39,4 @@ I build interfaces from reusable components, keep data fetching separate from pr
 
 ## Contact
 
-For frontend roles or project inquiries, [connect on LinkedIn](https://www.linkedin.com/in/muhammad-sharjeel-327705332/) or [send me an email](mailto:muhammadsharjeel039@gmail.com).
+For frontend roles or project inquiries, [connect on LinkedIn](https://www.linkedin.com/in/muhammad-sharjeel-abid-327705332/) or [send me an email](mailto:muhammadsharjeel039@gmail.com).
